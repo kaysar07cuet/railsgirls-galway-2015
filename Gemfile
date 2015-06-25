@@ -44,3 +44,4 @@ group :development, :test do
 end
 
 gem 'devise'
+gem "letsrate", :git => "git://github.com/iammyr/letsrate.git"
