@@ -45,3 +45,5 @@ end
 
 gem 'devise'
 gem "letsrate", :git => "git://github.com/iammyr/letsrate.git"
+gem 'carrierwave'
+gem 'mini_magick', '3.8.0'
